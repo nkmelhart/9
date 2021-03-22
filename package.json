@@ -1,0 +1,26 @@
+{
+  "name": "6_router",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "@vueuse/firebase": "^4.3.4",
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.0.0-beta2",
+    "firebase": "^8.2.10",
+    "popper.js": "^1.16.1",
+    "vee-validate": "^4.2.2",
+    "vue": "^3.0.5",
+    "vue-router": "^4.0.4",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.1.4",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.0.1"
+  }
+}
